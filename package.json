@@ -1,6 +1,6 @@
 {
   "name": "hexo-statistic-30days",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "generate statistic 30days pv and uv echarts,use with 51.la ",
   "main": "index.js",
   "scripts": {
