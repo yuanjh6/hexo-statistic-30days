@@ -1,0 +1,17 @@
+{
+  "name": "hexo-statistic-30days",
+  "version": "1.0.2",
+  "description": "generate statistic 30days pv and uv echarts,use with 51.la ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echarts",
+    "30days",
+    "pv",
+    "uv"
+  ],
+  "author": "hello886",
+  "license": "ISC"
+}
